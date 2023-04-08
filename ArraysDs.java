@@ -1,5 +1,6 @@
 import java.util.*;
 
+//reversing the array
 public class ArraysDS {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
@@ -9,8 +10,8 @@ public class ArraysDS {
         for (i = 0; i < n; i++) {
             a[i] = in.nextInt();
         }
-    
-        for (i = n-1; i >=0 ; i--) {
+
+        for (i = n - 1; i >= 0; i--) {
             System.out.print(a[i] + " ");
         }
     }
