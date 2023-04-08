@@ -1,6 +1,8 @@
 import java.util.*;
 
 //reversing the array
+//Name: Tripti
+//Version: 1.0
 public class ArraysDS {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);

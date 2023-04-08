@@ -1,5 +1,7 @@
 import java.util.*;
 
+//Name: Tripti
+//Version: 1.0
 public class CandlesAndHeight {
     public static void main(String args[])
      {

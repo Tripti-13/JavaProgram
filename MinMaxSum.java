@@ -1,5 +1,7 @@
 import java.util.*;
 
+//Name: Tripti
+//Version: 1.0
 public class MinMaxSum {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
@@ -28,13 +30,13 @@ public class MinMaxSum {
 
         if (sum1 < minsum)
             minsum = sum1;
-           else if (sum2 < minsum)
+        else if (sum2 < minsum)
             minsum = sum2;
-            else if (sum3 < minsum)
+        else if (sum3 < minsum)
             minsum = sum3;
-            else if (sum4 < minsum)
+        else if (sum4 < minsum)
             minsum = sum4;
-            else 
+        else
             minsum = sum5;
 
         System.out.println(+minsum + " " + maxsum);
