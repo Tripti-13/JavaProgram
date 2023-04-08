@@ -1,5 +1,7 @@
 import java.util.*;
 
+//Name: Tripti
+//Version: 1.0
 public class HelloWorld {
 
     static long arrayManipulation(int n, int[][] queries) {
